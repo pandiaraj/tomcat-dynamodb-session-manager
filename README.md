@@ -5,6 +5,7 @@ AWS DynamoDB session store for Tomcat server
 
 Configuration:
 -------------
+
 <Manager className="com.pandiaraj.catalina.session.DynamoSessionManager" 
     accessKey="YOUR AWS ACCESS KEY"
     secretKey="YOUT AWS SECRET KEY"
